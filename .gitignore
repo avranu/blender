@@ -1,0 +1,3 @@
+blender-venv/
+*.pyc
+.*_cache
